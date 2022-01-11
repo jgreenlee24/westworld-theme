@@ -1,0 +1,21 @@
+{
+    "name": "westworld-theme",
+    "displayName": "westworld-theme",
+    "description": "A VSCode Color theme based on the iconic terminal scenes of Westworld.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Westworld Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Westworld Theme-color-theme.json"
+            }
+        ]
+    }
+}
