@@ -1,6 +1,8 @@
 {
     "name": "westworld-theme",
     "displayName": "westworld-theme",
+    "repository": "https://github.com/jgreenlee24/westworld-theme",
+    "publisher": "savagesqwerl",
     "description": "A VSCode Color theme based on the iconic terminal scenes of Westworld.",
     "version": "0.0.1",
     "engines": {

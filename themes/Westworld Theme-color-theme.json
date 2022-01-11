@@ -1,6 +1,8 @@
 {
 	"name": "Westworld Theme",
 	"$schema": "vscode://schemas/color-theme",
+	"repository": "https://github.com/jgreenlee24/westworld-theme",
+	"publisher": "savagesqwerl",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#00493d79",
